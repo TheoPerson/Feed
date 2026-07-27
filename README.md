@@ -1,51 +1,34 @@
 <div align="center">
-  <h1>📅 Esports & Sports Calendar Feeds</h1>
-  <p>A collection of automatically updated .ics calendar feeds for various esports and sports events.</p>
+  <h1 align="center">Calendar Feeds</h1>
+  <p align="center">
+    <i>Raw .ics calendar feeds for esports and sports events.</i>
+  </p>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/last-commit/TheoPerson/Feed?style=flat-square&color=ff69b4" alt="Last Commit" />
-  <img src="https://img.shields.io/github/repo-size/TheoPerson/Feed?style=flat-square&color=ff69b4" alt="Repo Size" />
-  <img src="https://img.shields.io/badge/Format-.ICS-green?style=flat-square" alt="ICS Format" />
+  <img src="https://img.shields.io/github/last-commit/TheoPerson/Feed?style=for-the-badge&color=121212&logoColor=white" alt="Last Commit" />
+  <img src="https://img.shields.io/badge/ICS-121212?style=for-the-badge&logoColor=white" alt="ICS" />
 </div>
 
-<br />
+<br><br>
 
-## 📖 Overview
+> **Overview**
+> This repository hosts a collection of automatically updated iCalendar (.ics) files, allowing users to subscribe to major CS2, R6, and sports events directly in their personal calendars.
 
-This repository hosts a variety of **iCalendar (.ics) feeds** for major esports and sports events. You can subscribe to these feeds directly in Google Calendar, Apple Calendar, Outlook, or any compatible calendar application to stay up-to-date with your favorite matches!
+<br>
 
-## 📅 Available Feeds
+### ✦ Features
+- **Automated Updates:** Stay in sync with live events.
+- **Cross-Platform:** Works with Google, Apple, and Outlook calendars.
+- **Minimal Setup:** Just subscribe via URL.
 
-Here are the calendars currently available in this repository:
+<br>
 
-- 🎮 **CS2 Tier 1 (2026):** `cs2-tier1-2026.ics`
-- 🎮 **Rainbow Six Siege Tier 1 (2026):** `r6-tier1-2026.ics`
-- 🔫 **BLAST Open Rotterdam (2026):** `blast-open-rotterdam-2026.ics`
-- 🏉 **Top 14 Rugby (2026):** `top14-2026.ics`
-- 🏉 **UBB Matches:** `ubb-only.ics`
-- 🥊 **UFC Announced Events:** `ufc-announced.ics`
+### ✦ Quick Start
 
-## 🚀 How to Subscribe
+Copy the raw URL of any `.ics` file (like `cs2-tier1-2026.ics`) and add it to your calendar app via "Subscribe to URL".
 
-### Google Calendar
-1. Open Google Calendar on your computer.
-2. On the left side, next to "Other calendars", click the `+` icon.
-3. Select **"From URL"**.
-4. Paste the raw GitHub URL of the `.ics` file (e.g., `https://raw.githubusercontent.com/TheoPerson/Feed/main/cs2-tier1-2026.ics`).
-5. Click **"Add calendar"**.
-
-### Apple Calendar
-1. Open Calendar.
-2. Go to **File > New Calendar Subscription**.
-3. Paste the raw GitHub URL of the `.ics` file.
-4. Click **Subscribe**.
-
-## 🛠️ Infrastructure
-
-These files are hosted publicly and can be served directly via GitHub Pages or Raw GitHub links, making them a reliable source for automated calendar syncing.
-
----
+<br><br>
 <div align="center">
-  <i>Curated by Théo 'JUG'</i>
+  <p><sup>Curated by Théo 'JUG'</sup></p>
 </div>
